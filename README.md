@@ -7,7 +7,7 @@ This project showcases the power of **Flexbox**, **Glassmorphism**, and **smooth
 
 ## 📸 Preview
 
-![image alt](https://github.com/Saiyonbasorokhaibam/3rd-Project---Personal-Info-Card/blob/main/preview.png?raw=true)
+![image alt](https://github.com/Saiyonbasorokhaibam/16.Project-Personal-Info-Card/blob/main/preview.png?raw=true)
 
 ---
 
@@ -32,14 +32,15 @@ This project showcases the power of **Flexbox**, **Glassmorphism**, and **smooth
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Saiyonba Sorokhaibam Meitei
-💼 GitHub
 
-🪪 License
+
+## 💼License
 
 This project is licensed under the MIT License — you can freely use, modify, and share it.
 
 ⭐ Don’t forget to star this repo if you liked it!
+
 
